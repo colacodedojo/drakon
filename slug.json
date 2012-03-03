@@ -1,0 +1,10 @@
+{
+    "main": "src/app/main.js",
+    "css": "src/css/index.js",
+    "public": "src/public",
+    "paths": ["src/app"],
+    "libs": [],
+    "dependencies": [
+        "jqueryify"
+    ]
+}
