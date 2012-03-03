@@ -1,0 +1,14 @@
+Creating a User account and logging in
+
+    database
+        users collection in mongodb
+        need server side code to save, auth, retrieve users
+        
+    expressjs
+        need an default route for login page
+        need a login route
+        need user homepage route
+
+    web stuff
+        need login page
+        need user homepage 

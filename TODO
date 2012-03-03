@@ -1,5 +1,28 @@
 expressjs server
-client side canvas stuff
-mongodb basic dal stuff
+    chat
+    retrieve game data
+    submit moves to game server
+    socket.io for game communication
 
+
+client side canvas stuff
+    basic game code stubbed
+    something manage a tile
+    manage players
+    whose turn it is
+
+
+game logic
+    individual game state
+    turns
+    validating moves
+    start a new game      
+    join a game
+    some of this needs to run on browser
+    need some sort of game state update
+    knowing when a game is done
+
+    
+mongodb basic dal stuff
+    
 
